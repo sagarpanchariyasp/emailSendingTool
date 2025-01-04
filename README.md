@@ -48,15 +48,15 @@ The tool will start sending emails one by one with a 1-minute delay between emai
 File Structure
 graphql
 Copy code
-email-sender-tool/
-├── api/                 # (Optional API folder for additional features)
-├── node_modules/        # Project dependencies
-├── .gitignore           # Files/folders to ignore in Git
-├── email-sender.js      # Main script to send emails
-├── email-template.html  # HTML template for emails
-├── emails.xlsx          # Excel file containing recipient email addresses
-├── package.json         # Project metadata and dependencies
-├── package-lock.json    # Dependency lock file
+email-sender-tool/ </br>
+├── api/                 # (Optional API folder for additional features) </br>
+├── node_modules/        # Project dependencies </br>
+├── .gitignore           # Files/folders to ignore in Git </br>
+├── email-sender.js      # Main script to send emails </br>
+├── email-template.html  # HTML template for emails </br>
+├── emails.xlsx          # Excel file containing recipient email addresses </br>
+├── package.json         # Project metadata and dependencies </br>
+├── package-lock.json    # Dependency lock file </br>
 How It Works
 Excel File Parsing:
 
