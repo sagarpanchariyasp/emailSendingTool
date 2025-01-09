@@ -100,15 +100,5 @@ Developed by Sagar Panchariya.
 Feel free to contribute to the project or report any issues. Happy emailing!
 
 yaml
-Copy code
 
----
 
-### How to Add the README to Your Repository
-1. Create a file named `README.md` in the root directory of your project.
-2. Paste the content above into the file.
-3. Add, commit, and push the README file to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Add README file"
-   git push origin main
